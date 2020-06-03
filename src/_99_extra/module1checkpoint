@@ -1,0 +1,70 @@
+String
+int
+int
+int
+12
+wordJava
+pi
+"programmer"
+10
+"July Seventeenth"
+3
+String birthdayPresent = "a new phone";
+String lastMeal = "pasta";
+int bedtime = 10;
+int robotPrograms = 7;
+
+for(int i = 1; i<=10; i++){
+System.out.println(i);
+}
+for(int i= 75; i>=50; i--){
+System.out.println(i);
+}
+Sets variable i to a number
+Checks it the value in variable i the greater than, less than or equal to a number
+Adds or subtracts 1 from i
+
+String yes = "yes";
+if(yes.equals("yes")){
+System.out.println("happy");
+}
+else{
+System.out.println("sad");
+}
+System.out.println("Wednesday");
+sad Wednesday
+
+int age = 12;
+if(age < 20){
+System.out.println("It's so great being young");
+}
+else{
+System.out.println("Don't you wish you were young");
+
+animal = JOptionPane.showInputDialog("Which animal do you like?");
+if(animal.equals("dog")){
+JOptionPane.showMessageDialog(null,"Dogs go woof");
+}
+if(animal.equals("cat")){
+JOptionPane.showMessageDialog(null,"Cats go meow");
+}
+if(animal.equals("duck")){
+JOptionPane.showMessageDialog(null,"Ducks go quack");
+}
+if(animal.equals("cow")){
+JOptionPane.showMessageDialog(null,"Cows go moo");
+}
+else{
+JOptionPane.showMessageDialog(null,"I do not know that animal");
+}
+
+
+
+
+
+
+
+
+
+
+
